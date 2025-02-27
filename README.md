@@ -1,7 +1,7 @@
 ```
-Developed by;
-Name : Rajalakshmi R
+Developed by : Rajalakshmi R
 Reg No : 212223110037
+Date : 27.02.2025
 ```
 
 # Ex.No:1a 
